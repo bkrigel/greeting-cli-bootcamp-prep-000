@@ -1,3 +1,3 @@
-def greeing
-  puts "Hi! I'm HAL, what's your name?"
+def greeing(name)
+  puts "Hello #{name}. It's nice to meet you."
 end
