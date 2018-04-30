@@ -1,2 +1,2 @@
 def greeing(name)
-  
+  puts 
