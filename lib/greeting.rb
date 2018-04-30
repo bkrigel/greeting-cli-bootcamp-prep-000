@@ -1,2 +1,3 @@
 def greeing(name)
-  puts 
+  puts "Hi! I'm HAL, what's your name?"
+end
